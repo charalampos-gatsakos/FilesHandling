@@ -14,7 +14,6 @@ namespace FilesHandling
          *  #   DATE            NAME       AGE
          *  1   20/08/2022      Babis      25 
          */
-        //      if(line.Trim()
         static void Main(string[] args)
         {
             try
